@@ -1,0 +1,21 @@
+{
+  "@@locale": "pl",
+  "internalFailure": "Błąd wewnętrzny",
+  "notFoundFailure": "Nie znaleziono",
+  "timeoutFailure": "Przekroczono czas oczekiwania",
+  "unauthorizedFailure": "Nieautoryzowany",
+  "entityTooLargeFailure": "Zbyt duży obiekt",
+  "somethingWentWrong": "Coś poszło nie tak",
+  "tryAgain": "Spróbuj ponownie",
+
+  "theme": "Motyw",
+  "language": "Język",
+
+  "likes": "Polubienia",
+  "comments": "Komentarze",
+  "views": "Wyświetlenia",
+  "availableSizes": "Dostępne rozmiary",
+  "settings": "Ustawienia",
+  "search": "Szukaj",
+  "inputRequest": "Prośba o wprowadzenie danych"
+}

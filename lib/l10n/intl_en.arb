@@ -1,0 +1,21 @@
+{
+  "@@locale": "en",
+  "internalFailure": "Internal failure",
+  "notFoundFailure": "Not found",
+  "timeoutFailure": "Timeout",
+  "unauthorizedFailure": "Unauthorized",
+  "entityTooLargeFailure": "Entity too large",
+  "somethingWentWrong": "Something went wrong",
+  "tryAgain": "Try again",
+
+  "theme": "Theme",
+  "language": "Language",
+
+  "likes": "Likes",
+  "comments": "Comments",
+  "views": "Views",
+  "availableSizes": "Available sizes",
+  "settings": "Settings",
+  "search": "Search",
+  "inputRequest": "Input request"
+}
